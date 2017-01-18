@@ -1,2 +1,2 @@
 # Intro-to-Python-Homework
-Assignments for 
+Homework assignments 
